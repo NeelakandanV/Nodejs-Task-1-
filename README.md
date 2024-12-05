@@ -35,7 +35,7 @@ This project enables the generation and management of student progress reports. 
 ﻿### PUT - https://progress-card.onrender.com/api/marks/updateMarks/:id -  Updating a mark **Mark Id** <br/> 
 ﻿### DELETE - https://progress-card.onrender.com/api/marks/deleteMark/:id - Delete Mark **Mark Id** <br/>
 
-## For more details,Visit my [https://documenter.getpostman.com/view/26860332/2sAYBbd8kz](Postman Docs)
+## For more details,Visit my (https://documenter.getpostman.com/view/26860332/2sAYBbd8kz)[Postman Docs]
 
  ## Note: Since I'm deployed the apis in render's free tier, The initial request is taking time, Please wait little longer for initial request
 ﻿
