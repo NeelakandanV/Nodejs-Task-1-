@@ -19,23 +19,23 @@ This project enables the generation and management of student progress reports. 
 ## API Endpoints
 ## Primary Endpoint - Report Card Generation
 ## GET - https://progress-card.onrender.com/api/marks/generateReport/:id - Generate Report Card ** Student Id**
-### GET - https://progress-card.onrender.com/ - To start the server
-﻿### POST - https://progress-card.onrender.com/api/student/create/ - Create a Student
-﻿### GET - https://progress-card.onrender.com/api/student/getOneStudent/:id - Particular Student **Student Id**
-﻿### GET - https://progress-card.onrender.com/api/student/getStudent - All Students
-﻿### PUT - https://progress-card.onrender.com/api/student/updateStudent/:id - Update a student **Student Id**
-﻿### DELETE - https://progress-card.onrender.com/api/student/deleteStudent/6751ff80e3575f60b8f67ba5 - Delete Student **Student Id**
-﻿### POST - https://progress-card.onrender.com/api/subject/create - Create Subject
-﻿### GET - https://progress-card.onrender.com/api/subject/getSubject - All Subjects
-﻿### GET - https://progress-card.onrender.com/api/subject/getOneSubject/:id -  Particular Subject **Subject Id**
-﻿### PUT - https://progress-card.onrender.com/api/subject/updateSubject/:id - Update a Subject **Subject Id**
-### DELETE - https://progress-card.onrender.com/api/subject/deleteSubject/:id - Delete Subject **Subject Id**
-﻿### POST - https://progress-card.onrender.com/api/marks/create - Create Subject mark for student
-﻿### GET -https://progress-card.onrender.com/api/marks/getMarks/ - Getting all marks for all subjects
-﻿### PUT - https://progress-card.onrender.com/api/marks/updateMarks/:id -  Updating a mark **Mark Id**
-﻿### DELETE - https://progress-card.onrender.com/api/marks/deleteMark/:id - Delete Mark **Mark Id**
+### GET - https://progress-card.onrender.com/ - To start the server <br/>
+﻿### POST - https://progress-card.onrender.com/api/student/create/ - Create a Student <br/>
+﻿### GET - https://progress-card.onrender.com/api/student/getOneStudent/:id - Particular Student **Student Id** <br/>
+﻿### GET - https://progress-card.onrender.com/api/student/getStudent - All Students <br/>
+﻿### PUT - https://progress-card.onrender.com/api/student/updateStudent/:id - Update a student **Student Id** <br/>
+﻿### DELETE - https://progress-card.onrender.com/api/student/deleteStudent/6751ff80e3575f60b8f67ba5 - Delete Student **Student Id** <br/>
+﻿### POST - https://progress-card.onrender.com/api/subject/create - Create Subject <br/>
+﻿### GET - https://progress-card.onrender.com/api/subject/getSubject - All Subjects <br/>
+﻿### GET - https://progress-card.onrender.com/api/subject/getOneSubject/:id -  Particular Subject **Subject Id** <br/>
+﻿### PUT - https://progress-card.onrender.com/api/subject/updateSubject/:id - Update a Subject **Subject Id** <br/>
+### DELETE - https://progress-card.onrender.com/api/subject/deleteSubject/:id - Delete Subject **Subject Id** <br/>
+﻿### POST - https://progress-card.onrender.com/api/marks/create - Create Subject mark for student <br/>
+﻿### GET -https://progress-card.onrender.com/api/marks/getMarks/ - Getting all marks for all subjects <br/>
+﻿### PUT - https://progress-card.onrender.com/api/marks/updateMarks/:id -  Updating a mark **Mark Id** <br/> 
+﻿### DELETE - https://progress-card.onrender.com/api/marks/deleteMark/:id - Delete Mark **Mark Id** <br/>
 
-## For more details,Visit my ["https://documenter.getpostman.com/view/26860332/2sAYBbd8kz"](Postman Docs)
+## For more details,Visit my [https://documenter.getpostman.com/view/26860332/2sAYBbd8kz](Postman Docs)
 
  ## Note: Since I'm deployed the apis in render's free tier, The initial request is taking time, Please wait little longer for initial request
 ﻿
