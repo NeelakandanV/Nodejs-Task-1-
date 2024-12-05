@@ -3,8 +3,7 @@
 This project enables the generation and management of student progress reports. It allows you to create and manage students, subjects, marks, and generate detailed report cards through a simple API. The system supports functionalities for adding, updating, and deleting student and subject data, as well as managing subject marks.
 
 
-### Server URL
-- **Base URL**: `https://progress-card.onrender.com/`
+ # URL : https://progress-card.onrender.com/
 
 ## Features
 - **Create Student**: Add a new student to the system.
@@ -35,7 +34,7 @@ This project enables the generation and management of student progress reports. 
 ﻿### PUT - https://progress-card.onrender.com/api/marks/updateMarks/:id -  Updating a mark **Mark Id** <br/> 
 ﻿### DELETE - https://progress-card.onrender.com/api/marks/deleteMark/:id - Delete Mark **Mark Id** <br/>
 
-## For more details,Visit my (https://documenter.getpostman.com/view/26860332/2sAYBbd8kz)[Postman Docs]
+## For more details,Visit my [Postman Docs](https://documenter.getpostman.com/view/26860332/2sAYBbd8kz)
 
  ## Note: Since I'm deployed the apis in render's free tier, The initial request is taking time, Please wait little longer for initial request
 ﻿
